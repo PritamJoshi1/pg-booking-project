@@ -8,9 +8,9 @@ PG booking system is an android application. The application helps Customers boo
 3. Application provides feature that allows to upload photo id while booking that useful for PG owners to validate users
 
 # Screenshots
-<img src = "https://user-images.githubusercontent.com/96775945/234928958-2e0ce966-be6c-4d80-94ab-b5ec122f882b.jpg" width="300" heigth="600"/>
+<img src = "https://user-images.githubusercontent.com/96775945/234928958-2e0ce966-be6c-4d80-94ab-b5ec122f882b.jpg" width="300" heigth="500"/>
 
-![start splash](https://user-images.githubusercontent.com/96775945/234928702-fc6a5432-7bad-44d3-8b06-112cea5d377d.jpg =400*600)  
+![start splash](https://user-images.githubusercontent.com/96775945/234928702-fc6a5432-7bad-44d3-8b06-112cea5d377d.jpg)  
 ![login screen](https://user-images.githubusercontent.com/96775945/234928958-2e0ce966-be6c-4d80-94ab-b5ec122f882b.jpg)
 ![register page](https://user-images.githubusercontent.com/96775945/234929004-46d5dd6b-fcad-49ca-b4e4-c83af3bae42b.png)
 ![home screen](https://user-images.githubusercontent.com/96775945/234929106-79c7e648-9dd4-42f7-bb8c-db2457c1384f.jpg)
